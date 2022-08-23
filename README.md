@@ -16,7 +16,7 @@ Further pre-trained mDeBERTa-v3-base Model with Korean dataset
     pip install transformers
     pip install sentencepiece
     ```   
-- Huggingface Hub
+- [Huggingface Hub](https://huggingface.co/lighthouse/mdeberta-v3-base-kor-further)
     ```python
     from transformers import AutoModel, AutoTokenizer
     
